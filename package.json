@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz_js",
+  "version": "1.0.0",
+  "description": "Basic fizzbuzz implementation in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottmacphersonmusic/fizzbuzz_js.git"
+  },
+  "author": "Scott Macpherson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottmacphersonmusic/fizzbuzz_js/issues"
+  },
+  "homepage": "https://github.com/scottmacphersonmusic/fizzbuzz_js#readme"
+}
