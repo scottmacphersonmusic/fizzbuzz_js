@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/scottmacphersonmusic/fizzbuzz_js/issues"
   },
-  "homepage": "https://github.com/scottmacphersonmusic/fizzbuzz_js#readme"
+  "homepage": "https://github.com/scottmacphersonmusic/fizzbuzz_js#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
 }
